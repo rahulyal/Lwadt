@@ -1,2 +1,2 @@
-# Lwadt
-Lwadt : Learning Web Applications by Developing Them
+# Rahul's Blog
+Built using [deno_blog](https://github.com/denoland/deno_blog).
