@@ -10,7 +10,7 @@ blog({
   // footer: <footer>Your custom footer</footer>,
   // https://deno-avatar.deno.dev/avatar/blog.svg
   avatar: "img_white.jpg",
-  avatarClass: "full",
+  avatarClass: "rounded-full",
   author: "Rahul Yal",
   links: [
     { title: "Email", url: "mailto:vyalavarthi@scu.edu" },
