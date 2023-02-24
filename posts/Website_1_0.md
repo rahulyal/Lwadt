@@ -6,6 +6,7 @@ publish_date: 2023-02-23
 <!--second post --->
 # Website 1.0
 It's been a very long journey of thinking of having my own website which I thought would have been an easy all-nighter task, which then turned itself into more of a project that needs continuous development as I pick up more skills on my journey.
+
 Here I am finally giving the [tutorial hell](https://www.wbscodingschool.com/blog/what-is-tutorial-hell-how-to-get-out/) a break and introducing the first version of [my website](https://rahul.page/).
 
 ## The beginning
