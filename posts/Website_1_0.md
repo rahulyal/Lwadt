@@ -4,7 +4,7 @@ publish_date: 2023-02-23
 ---
 
 <!--second post --->
-# Website 1.0
+<!-- # Website 1.0 -->
 It's been a very long journey of thinking of having my own website which I thought would have been an easy all-nighter task, which then turned itself into more of a project that needs continuous development as I pick up more skills on my journey.
 
 Here I am finally giving the [tutorial hell](https://www.wbscodingschool.com/blog/what-is-tutorial-hell-how-to-get-out/) a break and introducing the first version of [my website](https://rahul.page/).
@@ -30,7 +30,7 @@ Let me be clear, by no means I should be a judge on this. But as a beginner and 
 - **Future prospects** - Ok I'm not against jekyll, it's a super cool static site generator, that is all. That was my problem, I wanted to iterate my website, I wanted to develop a portfolio page which then linked to the blog, and many other things, my projects, hobbies, habits & tracking, content i'm right now on(books, tv shows, games, etc). So all in all, I wanted to try out [fresh](https://fresh.deno.dev/) for the next version of the website, and try to atleast make an about me page to begin with, and make blogs a part of my portfolio, and not my whole website. for the next iteration of my website I'm going to use Fresh, a web framework for deno.
 
 ### How does it looks ? 
-It obviously looks very similar to the original template of deno_blog. I first found deno_blog when ryan dahl, creator of node and deno used it make his [blog](https://tinyclouds.org/)(tinyclouds.org), to demonstrate edge computing on deno deploy. It's like tiny clouds all around the world hosting the web. Do you see it ? 
+It obviously looks very similar to the original template of deno_blog. I first found deno_blog when [ryan dahl](https://www.youtube.com/watch?v=3NR9Spj0DmQ), creator of node and deno used it make his [blog](https://tinyclouds.org/)(tinyclouds.org), to demonstrate edge computing on deno deploy. It's like tiny clouds all around the world hosting the web. Do you see it ? 
 <!--In chrome - add front page to readme too-->
 #### front page
 
