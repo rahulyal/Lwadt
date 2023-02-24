@@ -1,4 +1,8 @@
-<!--first post - hello world! - with code examples-->
+---
+title: Website 1.0
+publish_date: 2023-02-23
+---
+
 <!--second post --->
 # Website 1.0
 It's been a very long journey of thinking of having my own website which I thought would have been an easy all-nighter task, which then turned itself into more of a project that needs continuous development as I pick up more skills on my journey.
@@ -16,18 +20,19 @@ That's when I started playing around with:
 
 This is where it gets interesting I turned to web dev frameworks, wasn't able to get into any of the million options available out there, got to know a lot of names without knowing anything about them: React, Vue, Angular, Nodejs, Nextjs, then found out how deno was better, had to go out and learn what javascript async/await [meant](https://www.youtube.com/watch?v=cCOL7MC4Pl0), and how the server-side, client-side works. What the Chrome V8 javascript runtime was ? How does the browser render the code ? Just got a very basic idea on how web development worked.
 
-Luckily that's when I realized I wasn't getting anywhere, and started to look for the problem I was trying to solve in the first place. I wanted to come out of the tutorial hell so badly I didn't even want to try out another framework and build an actual portfolio where blogs was a folder, where I could organize my posts. I just wanted to leave everything for the future versions and wanted to get the first version up and running as soon as possible. I came upon two options to choose from for the first version of the blog, deno_blog and jekyll. 
+Luckily that's when I realized I wasn't getting anywhere, and started to look for the problem I was trying to solve in the first place. I wanted to come out of the tutorial hell so badly I didn't even want to try out another framework and build an actual portfolio where blogs was a folder, where I could organize my posts. I just wanted to leave everything for the future versions and wanted to get the first version up and running as soon as possible. I came upon two options to choose from for the first version of the blog, [deno_blog](https://deno.land/x/blog@0.5.0) and [jekyll](https://jekyllrb.com/). 
 
 ### Why [deno](https://deno.land/) ?
 Let me be clear, by no means I should be a judge on this. But as a beginner and newbie in the world of webdev. deno seems like a super great way to start my journey. But why did I choose deno_blog:
 - [**deno deploy**](https://deno.com/deploy) - it had github integration and allowed me to host my blog for free, even letting me link my custom domain. Super cool (BTW deno deploy uses edge computing)
-- **deno == simple** - I tried out both jekyll and deno blog. But deno just felt so simple in how it's built. deno is just easy, that's the way deno is. From the get go, to writing a blog post, till getting it up on internet. The default deno_blog is just the main page, and blog posts written in markdown (which I picked up after writing a report using it, actually super fun, once you get used to it you start writing documents in markdown, instead of google docs, try dillinger.io).
+- **deno == simple** - I tried out both jekyll and deno blog. But deno just felt so simple in how it's built. deno is just easy, that's the way deno is. From the get go, to writing a blog post, till getting it up on internet. The default deno_blog is just the main page, and blog posts written in markdown (which I picked up after writing a report using it, actually super fun, once you get used to it you start writing documents in markdown, instead of google docs, try [dillinger.io](https://dillinger.io/)).
 - **Future prospects** - Ok I'm not against jekyll, it's a super cool static site generator, that is all. That was my problem, I wanted to iterate my website, I wanted to develop a portfolio page which then linked to the blog, and many other things, my projects, hobbies, habits & tracking, content i'm right now on(books, tv shows, games, etc). So all in all, I wanted to try out [fresh](https://fresh.deno.dev/) for the next version of the website, and try to atleast make an about me page to begin with, and make blogs a part of my portfolio, and not my whole website. for the next iteration of my website I'm going to use Fresh, a web framework for deno.
 
 ### How does it looks ? 
-It obviously looks very similar to the original template of deno_blog. I first found deno_blog when ryan dahl, creator of node and deno used it make his blog(tinyclouds.org), to demonstrate edge computing on deno deploy. It's like tiny clouds all around the world hosting the web. Do you see it ? 
+It obviously looks very similar to the original template of deno_blog. I first found deno_blog when ryan dahl, creator of node and deno used it make his [blog](https://tinyclouds.org/)(tinyclouds.org), to demonstrate edge computing on deno deploy. It's like tiny clouds all around the world hosting the web. Do you see it ? 
 <!--In chrome - add front page to readme too-->
 #### front page
+
 #### post page
 
 ## What's the idea ?
@@ -48,17 +53,17 @@ This is the first of many posts that are yet to come.
 
 Make it a great day!
 
-#### P.S: I guess
+### P.S: I guess
 
-##### Courses this quarter:
+#### Courses this quarter:
 - **COEN241**-Cloud computing - Notes, AWS(learn by doing), Project (building a cloud based application)
 - **COEN283**-Operating Systems - Notes, Research project
 
-##### Ideas for blog posts:
+#### Ideas for blog posts:
 - Content related to courses
 - Are we even autonomous at this point (For a course next quater: human computer Interaction: Attention management tools)
 - Tutorial hell - it is real
 
-##### Expected next version of the website:
+#### Expected next version of the website:
 1. Portfolio page : Intro, I'm a (looping text of mechanical engineer, dropout, CS grad student)
 2. Blog page: blog posts in folders, maybe categorized

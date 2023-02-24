@@ -9,7 +9,7 @@ blog({
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
   // https://deno-avatar.deno.dev/avatar/blog.svg
-  avatar: "img_white.jpg",
+  avatar: "img_white_crop.svg",
   avatarClass: "rounded-full",
   author: "Rahul Yal",
   links: [
