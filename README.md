@@ -1,4 +1,4 @@
-![front page of rahulpages](/images/front_page.png "front_page")
+![front page of rahulpages](../posts/images/front_page.png "front_page")
 
 # Rahul's Blog
 
