@@ -33,8 +33,9 @@ Let me be clear, by no means I should be a judge on this. But as a beginner and 
 It obviously looks very similar to the original template of deno_blog. I first found deno_blog when [ryan dahl](https://www.youtube.com/watch?v=3NR9Spj0DmQ), creator of node and deno used it make his [blog](https://tinyclouds.org/)(tinyclouds.org), to demonstrate edge computing on deno deploy. It's like tiny clouds all around the world hosting the web. Do you see it ? 
 <!--In chrome - add front page to readme too-->
 #### front page
-
+![front page of rahulpages](/images/front_page.png "front_page")
 #### post page
+![post page of rahulpages](/images/post_page.png "post_page")
 
 ## What's the idea ?
 - It's my personal space on the internet. 
