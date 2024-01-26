@@ -1,6 +1,6 @@
 ---
-title: Hello World!
-publish_date: 2023-02-08
+title: How does the web work?
+publish_date: 2024-01-26
 ---
 
 # How does the web work?
