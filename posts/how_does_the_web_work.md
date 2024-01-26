@@ -3,8 +3,6 @@ title: How does the web work?
 publish_date: 2024-01-26
 ---
 
-# How does the web work?
-
 An Introduction to Web Development.
 
 ## Web Toolkit
